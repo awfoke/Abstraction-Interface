@@ -1,0 +1,13 @@
+D:\Aldi Prabowo\Kuliah\Pemrograman\kode kodean\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csprojAssemblyReference.cache
+D:\Aldi Prabowo\Kuliah\Pemrograman\kode kodean\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.csproj.CoreCompileInputs.cache
+D:\Aldi Prabowo\Kuliah\Pemrograman\kode kodean\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfoInputs.cache
+D:\Aldi Prabowo\Kuliah\Pemrograman\kode kodean\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.AssemblyInfo.cs
+D:\Aldi Prabowo\Kuliah\Pemrograman\kode kodean\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.exe
+D:\Aldi Prabowo\Kuliah\Pemrograman\kode kodean\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.deps.json
+D:\Aldi Prabowo\Kuliah\Pemrograman\kode kodean\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.json
+D:\Aldi Prabowo\Kuliah\Pemrograman\kode kodean\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.runtimeconfig.dev.json
+D:\Aldi Prabowo\Kuliah\Pemrograman\kode kodean\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.dll
+D:\Aldi Prabowo\Kuliah\Pemrograman\kode kodean\Abstraction\Abstraction\bin\Debug\netcoreapp3.1\Abstraction.pdb
+D:\Aldi Prabowo\Kuliah\Pemrograman\kode kodean\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.dll
+D:\Aldi Prabowo\Kuliah\Pemrograman\kode kodean\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.pdb
+D:\Aldi Prabowo\Kuliah\Pemrograman\kode kodean\Abstraction\Abstraction\obj\Debug\netcoreapp3.1\Abstraction.genruntimeconfig.cache
